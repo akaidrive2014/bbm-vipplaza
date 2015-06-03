@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: arial;
+}
+
+div.header-line {
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+
+div.logo {
+    max-width: 940px;
+    margin: 0 auto;
+    padding-top:2px;
+    padding-bottom:10px;
+}
+
+div.header-line a.logo-vip {
+    margin-left: 0px;/*6%;*/
+    float: left;
+    padding: 12px 0;
+}
+
+div.header-line a.logo-line {
+    margin-right: 0px;/*6%;*/
+    float: right;
+    padding: 12px 0;
+}
